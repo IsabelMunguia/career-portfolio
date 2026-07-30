@@ -54,23 +54,29 @@ Microsoft 365 • Microsoft Excel
 
 # 💻 Technical Projects
 
-## 🔎 Mortgage Employee Directory Data Automation
+## 🔎 [Mortgage Loan Officer Directory Automation](https://github.com/IsabelMunguia/mortgage-directory-automation)
 
 **Technologies:** Python • Selenium • BeautifulSoup • Requests • Pandas • CSV • Excel
 
-Developed Python-based automation workflows for a customer to collect and organize employee directory information from multiple mortgage company websites for business-development research.
+Developed Python-based automation workflows to collect and organize publicly available loan officer directory information for business-development research.
 
 ### Highlights
 
-- Automated data collection across approximately 3–5 mortgage company directories
-- Processed 100+ employee records per company
-- Worked with a directory containing more than 300 employee records
-- Exported structured datasets to CSV and Excel
+- Automated research across approximately 3–5 mortgage company directories
+- Processed 100+ loan officer records per company
+- Worked with one directory containing more than 300 records
+- Extracted structured business contact and state licensing information
 - Worked with dynamic web content and pagination
-- Troubleshot inconsistent website structures and browser automation challenges
+- Adapted extraction logic to different website structures
+- Exported structured datasets to CSV and Excel
 
-**Status:** Project documentation in development.
+**Skills demonstrated:** Python automation • Web scraping • Data extraction • HTML parsing • Browser automation • Data processing • Troubleshooting
 
+### 📂 Project Repository
+
+**[View the complete Mortgage Loan Officer Directory Automation project →](https://github.com/IsabelMunguia/mortgage-directory-automation)**
+
+The public repository contains sanitized demonstration code, fictional sample data, methodology documentation, and example output.
 ---
 
 ## 🏋️ MIFIT Management System
